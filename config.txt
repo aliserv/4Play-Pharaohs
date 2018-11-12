@@ -1,6 +1,6 @@
-token= NTA1MTU4NzQwMjQxMjg1MTMz.DrPiAg.56jRR33lOy_E4_XXIhMDfhkRJ4g
-owner= 484702647925080065 
-prefix= el
-game= Type Elegant🗝
+token= NTExNTI1Nzc2MDIyMzA2ODE2.DssUCQ.8I63tTpW1DatUexuFMqLsttO9e8
+owner= 314866432418643969 
+prefix= 1
+game= Te Roz Server
 stayinchannel=true 
 songinstatus=false 
