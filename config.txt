@@ -1,6 +1,6 @@
-token= NTExNTI1Nzc2MDIyMzA2ODE2.DssUCQ.8I63tTpW1DatUexuFMqLsttO9e8
+token= NTEyMDIzMzAzMDk1ODQ0ODY3.Dszalg.WqdsTXutLNMO-pc6XqVBhX2ftvs
 owner= 314866432418643969 
-prefix= 1
-game= Te Roz Server
+prefix= 2
+game= 2play
 stayinchannel=true 
 songinstatus=false 
